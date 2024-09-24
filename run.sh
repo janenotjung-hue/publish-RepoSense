@@ -14,6 +14,6 @@
 # Executes RepoSense
 # Do not change the default output folder name (reposense-report)
 ## Examples of other valid options; For more, please view the user guide
-### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
+java -jar RepoSense.jar --repos https://github.com/flynncupitt/AI-Speech-App
 
-java -jar RepoSense.jar --config ./configs
+#java -jar RepoSense.jar --config ./configs
